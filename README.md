@@ -17,6 +17,11 @@ You can play the game live [here]((https://kriti-59.github.io/Tic-Tac-Toe/)).
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-
-   ```bash
   https://github.com/Kriti-59/Tic-Tac-Toe.git
+
+2. Navigate to the project directory:
+   cd Tic-Tac-Toe
+
+3.Open index.html in your web browser.
+
+
