@@ -10,7 +10,8 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-You can play the game live [here]((https://kriti-59.github.io/Tic-Tac-Toe/)).
+You can play the game live [here](https://kriti-59.github.io/Tic-Tac-Toe/).
+
 
 ## Installation
 
@@ -22,6 +23,6 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    cd Tic-Tac-Toe
 
-3.Open index.html in your web browser.
+3. Open index.html in your web browser.
 
 
